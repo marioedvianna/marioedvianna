@@ -19,7 +19,6 @@ Atualmente focado em:
 - Automação de tarefas com PowerShell e Shell Script
 - Estruturação e desenvolvimento de APIs com Node.js, integrando bancos PostgreSQL em ambientes containerizados.
 
-
 Busco evoluir continuamente na transição da infraestrutura tradicional para arquiteturas mais modernas e automatizadas.
 
 ---
@@ -41,12 +40,20 @@ Busco evoluir continuamente na transição da infraestrutura tradicional para ar
 
 ---
 
+## 🏆 Projeto em Destaque
+
+### [🛡️ InfraWatch](https://github.com/marioedvianna/InfraWatch)
+Sistema de monitoramento e observabilidade de serviços. 
+- **Techs:** Node.js, Docker, PostgreSQL, Nginx.
+- **Destaque:** Implementação de arquitetura desacoplada (Worker/API) e logs estruturados.
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 ![Status de Contribuição](https://github-readme-streak-stats.herokuapp.com/?user=marioedvianna&theme=radical)
 
 ---
-
 
 ## 🎯 Objetivo atual
 
