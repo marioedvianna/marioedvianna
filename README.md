@@ -8,15 +8,17 @@ Atuo com administração de ambientes Windows e Linux, organização de servidor
 
 ## 🚀 Sobre mim
 
-Experiência prática na manutenção e organização de ambientes críticos, garantindo estabilidade e funcionamento adequado dos serviços.
+Experiência prática na manutenção, organização e sustentação de ambientes produtivos, com foco em estabilidade, disponibilidade e boas práticas operacionais.
 
 Atualmente focado em:
 
-- Estruturação de ambientes com Docker e Docker Compose
+- Estruturação de ambientes com Docker
+- Gestão de Servidores Windows e Linux
 - Deploy de aplicações em VPS
 - Configuração de proxy reverso com Nginx
 - Automação de tarefas com PowerShell e Shell Script
-- Desenvolvimento de APIs com Node.js e integração com PostgreSQL
+- Estruturação e desenvolvimento de APIs com Node.js, integrando bancos PostgreSQL em ambientes containerizados.
+
 
 Busco evoluir continuamente na transição da infraestrutura tradicional para arquiteturas mais modernas e automatizadas.
 
@@ -24,26 +26,38 @@ Busco evoluir continuamente na transição da infraestrutura tradicional para ar
 
 ## 🛠️ Tech Stack
 
-**Infraestrutura**
-- Linux (Debian/Ubuntu)
-- Windows Server
-- Docker & Docker Compose
-- Nginx (proxy reverso e SSL)
-- VPS (configuração e manutenção)
+### Infraestrutura & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Backend**
-- Node.js
-- Express
-- PostgreSQL
-- Supabase
-- APIs REST
+### Backend & Automação
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Automação**
-- PowerShell
-- Shell Script
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical"/>
+</p>
 
 ---
 
 ## 🎯 Objetivo atual
 
-Aprofundar conhecimentos em deploy seguro, organização de ambientes produtivos e arquitetura baseada em containers, documentando projetos e aprendizados ao longo da jornada.
+Aprofundar conhecimentos em deploy seguro, observabilidade básica (logs e monitoramento), organização de ambientes produtivos e arquitetura baseada em containers, documentando projetos e aprendizados ao longo da evolução profissional.
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mario-vianna)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esv.mario@gmail.com)
+- 
