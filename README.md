@@ -52,8 +52,8 @@ Sistema de monitoramento e observabilidade de serviços.
 ## 📈 Minha Atividade no GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marioedvianna&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioedvianna&layout=compact&theme=aura" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marioedvianna&show_icons=true&theme=aura&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioedvianna&layout=compact&theme=aura&cache_seconds=1800" />
 </p>
 
 <p align="center">
