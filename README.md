@@ -49,9 +49,16 @@ Sistema de monitoramento e observabilidade de serviços.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Minha Atividade no GitHub
 
-![Status de Contribuição](https://github-readme-streak-stats.herokuapp.com/?user=marioedvianna&theme=radical)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marioedvianna&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioedvianna&layout=compact&theme=aura" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=marioedvianna&theme=aura&hide_border=true" />
+</p>
 
 ---
 
