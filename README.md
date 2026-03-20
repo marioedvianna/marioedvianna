@@ -1,70 +1,79 @@
 # 👋 Olá, eu sou Mario Vianna
 
-**Infraestrutura de TI | Automação e Modernização de Ambientes**
+**Analista de Infraestrutura | Suporte N2/N3 | Automação e Observabilidade**
 
-Atuo com administração de ambientes Windows e Linux, organização de servidores e sustentação de sistemas em produção. Tenho direcionado meus estudos e projetos para containerização, deploy de aplicações e práticas modernas de infraestrutura.
+15 anos de experiência na sustentação de ambientes corporativos críticos,
+com foco em estabilidade operacional, automação e modernização de infraestrutura.
 
 ---
 
 ## 🚀 Sobre mim
 
-Experiência prática na manutenção, organização e sustentação de ambientes produtivos, com foco em estabilidade, disponibilidade e boas práticas operacionais.
+Atuei por 15 anos administrando ambientes com 1.500+ usuários na Câmara
+Municipal do Rio de Janeiro, com responsabilidade sobre Windows Server,
+Active Directory, virtualização (Nutanix/Proxmox), backup & DR (Commvault)
+e monitoramento com Zabbix.
 
-Atualmente focado em:
+Atualmente direcionando minha evolução para:
+- Automação de infraestrutura com **Ansible**
+- Observabilidade com **Zabbix + Grafana**
+- Ambientes híbridos com **Azure**
+- Containerização com **Docker**
 
-- Estruturação de ambientes com Docker
-- Gestão de Servidores Windows e Linux
-- Deploy de aplicações em VPS
-- Configuração de proxy reverso com Nginx
-- Automação de tarefas com PowerShell e Shell Script
-- Estruturação e desenvolvimento de APIs com Node.js, integrando bancos PostgreSQL em ambientes containerizados.
+---
 
-Busco evoluir continuamente na transição da infraestrutura tradicional para arquiteturas mais modernas e automatizadas.
+## 🏆 Projetos em Destaque
+
+### [📊 zabbix-grafana-lab](https://github.com/marioedvianna/zabbix-grafana-lab)
+Stack completa de observabilidade distribuída com Zabbix 7.0, Grafana e
+Zabbix Proxy orquestrada via Docker Compose.
+- **Stack:** Zabbix · Grafana · Docker · MySQL · SQLite3
+- **Destaques:** LLD, Proxy ativo, dashboards dinâmicos com Panel Repeat
+
+### [🤖 ansible-docker-lab](https://github.com/marioedvianna/ansible-docker-lab)
+Automação de provisionamento, hardening e auditoria de servidores Linux
+com Ansible e Docker.
+- **Stack:** Ansible · Docker · UFW · Jinja2
+- **Destaques:** 4 roles, SSH hardening, firewall segmentado, relatório de auditoria
+
+### [🛡️ NOC-PS-Monitor](https://github.com/marioedvianna/NOC-PS-Monitor)
+Solução de monitoramento com auto-healing desenvolvida em PowerShell.
+- **Stack:** PowerShell · Telegram API
+- **Destaques:** Auto-healing, alertas multinível, secrets management
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Infraestrutura & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### Infraestrutura & Sistemas
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Virtualização & Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### Backend & Automação
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Monitoramento & Observabilidade
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Automação
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## 🏆 Projeto em Destaque
-
-### [🛡️ InfraWatch](https://github.com/marioedvianna/InfraWatch)
-Sistema de monitoramento e observabilidade de serviços. 
-- **Techs:** Node.js, Docker, PostgreSQL, Nginx.
-- **Destaque:** Implementação de arquitetura desacoplada (Worker/API) e logs estruturados.
-
----
-
-## 📈 Minha Atividade no GitHub
+## 📈 Atividade no GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=marioedvianna&show_icons=true&theme=aura&include_all_commits=true&count_private=true&cache_seconds=1800" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioedvianna&layout=compact&theme=aura&cache_seconds=1800" />
 </p>
-
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=marioedvianna&theme=aura&hide_border=true" />
 </p>
-
----
-
-## 🎯 Objetivo atual
-
-Aprofundar conhecimentos em deploy seguro, observabilidade básica (logs e monitoramento), organização de ambientes produtivos e arquitetura baseada em containers, documentando projetos e aprendizados ao longo da evolução profissional.
 
 ---
 
@@ -72,4 +81,3 @@ Aprofundar conhecimentos em deploy seguro, observabilidade básica (logs e monit
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-vianna)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esv.mario@gmail.com)
-- 
